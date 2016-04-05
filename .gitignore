@@ -9,7 +9,9 @@ downloads/css/style.css
 public/js/bundle.js
 public/css/app.css
 
-*-config.json
+# FIXME: [maloneyc] taking this out for now, so as to do development on a 
+# local storage plugin
+#*-config.json
 backup/*
 
 # IntelliJ - PhpStorm and PyCharm
